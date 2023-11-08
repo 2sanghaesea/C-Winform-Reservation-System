@@ -1,0 +1,36 @@
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\디비.csproj.AssemblyReference.cache
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_page.resources
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manage_Member.resources
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register_page.resources
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\디비.csproj.GenerateResource.cache
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\디비.csproj.CoreCompileInputs.cache
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ycj19\OneDrive\문서\카카오톡 받은 파일\WINDOW~1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Train_Schedule.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\디비.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\디비.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminCheck_Rsrv.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_page.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register_page.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\디비.csproj.GenerateResource.cache
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\디비.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User_Main.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User_PriceChart.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User_Check_Schedule.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reservation.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Manage_Member.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin_Train_Schedule.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User_Reservation_Seat.resources
+C:\Users\User\Desktop\456\데이터베이스르스르스\데이터베이스르스르스\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User_Info.resources
